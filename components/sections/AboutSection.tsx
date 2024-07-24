@@ -161,7 +161,7 @@ export default function AboutSection() {
               <div className="overflow-hidden">
                 <div className="dark:text-white text-animation">
                   <div className="dark:text-white text-animation">
-                    My Working.
+                    My Experience.
                   </div>
                     - <b>Bank Transfer & Message Queuing (MSMQ)</b> <br/>
                     &nbsp;&nbsp;2006 - 2008 | Krungthai Bank <br/>
