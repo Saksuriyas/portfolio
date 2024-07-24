@@ -163,23 +163,28 @@ export default function AboutSection() {
                   <div className="dark:text-white text-animation">
                     My Working.
                   </div>
-                    - Developer of Krungthai Bank (2 years) <br/>
-                    - Developer of Sorfware Park Company. (3 year) <br/>
-                    - Developer of dtac part Distribution & Commision (2 year) <br/>
-                    - Operation of dtac part Business Apps. Solution (10 year) <br/>
-                    - Tech Arc. & DevSecOps of True (1.5 year) <br/> <br/>
+                    - <b>Bank Transfer & Message Queuing (MSMQ)</b> <br/>
+                    &nbsp;&nbsp;2006 - 2008 | Krungthai Bank <br/>
+                    - <b>Student Register of Rangsit University</b> <br/>
+                    &nbsp;&nbsp;2008 - 2011 | Software Park Company <br/>
+                    - <b>Distribution & Commission</b> <br/>
+                    &nbsp;&nbsp;2011 - 2013 | Dtac Company <br/>
+                    - <b>Business Application Solution</b> <br/>
+                    &nbsp;&nbsp;2013 - 2023 | Dtac Company <br/>
+                    - <b>Business Application Solution</b> <br/>
+                    &nbsp;&nbsp;2023 - Present | True Corporation Company <br/><br/>
                   <div className="dark:text-white text-animation">
                     My Freelance.
                   </div>
-                  - Developer of ระบบเช็คอินเซลล์ of dtac (3 month) <br/>
-                  - Developer of ระบบสต๊อกยา of อย. (5 month) <br/>
-                  - Developer of ระบบกองทุนสำรองเลี้ยงชีพ of ททท. (5 month) <br/>
-                  - Developer of ระบบรายงาน การขุดเจาะน้ำบาดาล of กรมบาดาล (6 month) <br/>
-                  - Developer of ระบบรายงาน การขุดเจาะน้ำมัน phase #1,2 of ปตท. (2 year) <br/>
-                  - Developer of ระบบสแกนเอกสารคนไข้ of โรงพยาบาล (1 year) <br/>
-                  - Developer of ระบบประวัติคนไข้ of โรงพยาบาล (1 year) <br/>
-                  - Developer of ระบบมอนิเตอร์ traffic of ตำรวจทางหลวง (7 month) <br/>
-                  - Developer of ระบบการ์ดโพรไฟล์ of กรมทหารอากาศดอนเมือง (6 month) <br/>
+                  - CheckIn Sales of dtac<br/>
+                  - POS stock of drug of (อย.)<br/>
+                  - Report provident fund of (ททท.)<br/>
+                  - Report drilling groundwater of กรมบาดาล<br/>
+                  - Report oil drilling of PTT.<br/>
+                  - Scan document patient system of hospital<br/>
+                  - Interview & history patient system of hospital<br/>
+                  - Traffic & analysis monitoring system of police<br/>
+                  - Card profile Airforce system of ทหารอากาศ<br/>
                 </div>
               </div>
 
